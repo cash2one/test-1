@@ -1,0 +1,6 @@
+酒	err:num is 0
+酒	err:num is 0
+酒	err:num is 0
+酒	err:num is 0
+茅台	err:num is 0
+茅台	err:num is 0
